@@ -21,7 +21,7 @@ repository               : "rajviparekh/rajviparekh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "rajvi_profilepic.png"
+  avatar           : "rajvi_profilepic.jpeg"
   name             : "Rajvi Parekh"
   pronouns         : # example: "she/her"  
   bio              : "AI/ML & Data Science "
